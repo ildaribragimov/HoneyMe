@@ -1,0 +1,55 @@
+
+Fonts actively used in this project
+-----------------------------------
+
+Font name       :   Averia Libre
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Pacifico
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Sacramento
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Cookie
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Leckerli One
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Niconne
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Rancho
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Rouge Script
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Oleo Script
+Font provider   :   google
+
+
+
+******************************************************************************
+
+
+
+
+Created by Typecast on 2015/11/09.
